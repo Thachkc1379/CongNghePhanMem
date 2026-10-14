@@ -1,0 +1,29 @@
+[
+  {
+    "id" : "1",
+    "name": "iphone 18",
+    "price": 30000,
+    "cate_id": "1",
+    "image": "https://cdn2.cellphones.com.vn/insecure/rs:fill:0:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/i/p/iphone-18-pro-01_2.jpg"
+  },
+  {
+    "id" : "2",
+    "name": "iphone 5",
+    "price": 10000,
+    "cate_id": "1",
+    "image": "https://hoangtrungmobile.vn/wp-content/uploads/2021/02/iphone-5s-trang.jpg"
+  },
+  {
+    "id" : "3",
+    "name": "red magic 11",
+    "price": 30000,
+    "cate_id": "1",
+    "image": "https://vn.redmagic.gg/cdn/shop/files/3colors_d9dea805-3e8e-498e-8847-59c9e2542708.png?v=1764821200"
+  },
+  {"id" : "4",
+    "name": "hp victus 15",
+    "price": 30000,
+    "cate_id": "3",
+    "image": "https://www.hp.com/content/dam/sites/omen/worldwide/laptops/2022-victus-15-intel/Hero%20Image%202.png"
+  }
+]
